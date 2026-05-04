@@ -1,5 +1,5 @@
 # Hello, 
-I'm parrahex
+I'm parrahex,
 a learning software developer focused on Go
 
 I like understanding how specific stuff work and building small tools that make things simpler, faster, or useful  
